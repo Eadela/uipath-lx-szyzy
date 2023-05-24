@@ -21263,8 +21263,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "网页抓取",
-      "projectName": "网页抓取",
+      "projectUniqueName": "web_page_operate",
+      "projectName": "web_page_operate",
       "projectPath": "E:\\uipath\\网页抓取\\.local",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "E:\\uipath\\网页抓取\\.local"

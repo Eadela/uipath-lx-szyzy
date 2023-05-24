@@ -1,0 +1,41 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "C:/Users/Administrator/AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsVBasic/Samples/Advanced/Counter Example.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Counter&Flowchart_1",
+        "Iterations&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "C:/Users/Administrator/AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsVBasic/Samples/Advanced/Filter Collection using LINQ.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "names&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
